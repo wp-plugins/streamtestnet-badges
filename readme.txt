@@ -1,5 +1,5 @@
 === StreamTest.Net Badges ===
-Contributors: dAlexander
+Contributors: Dave Alexander
 Tags: streamtest, streaming, badges
 Requires at least: 3.0.1
 Tested up to: 4.1.1
