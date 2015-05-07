@@ -1,0 +1,59 @@
+/* StreamTest Badges CSS */
+
+#streamtestBadgeOptions {
+	clear: both;
+	overflow: hidden;
+}
+
+.streamBadge {
+	position: relative;
+	padding: 15px 4%;
+	height: 200px;
+}
+
+.streamBadge .badgeImage {
+	height: 100px;
+}
+
+.streamBadge img {
+	margin: 0 auto 10px;
+	display: block;
+}
+
+.streamBadge .streamtestBadgeCode {
+	display: block;
+	max-width: 90%;
+	max-height: 60px;
+	margin: 10px auto 0;
+	padding: 5px 5%;
+	overflow: hidden;
+	background: #ddd;
+	color: #555;
+	font-weight: bold;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.streamBadge .streamtestBadgeCode:hover {
+	cursor: text;
+}
+
+@media screen and (min-width: 580px) {
+
+.streamBadge {
+	width: 42%;
+	float: left;
+}
+
+
+}
+
+
+@media screen and (min-width: 960px) {
+
+.streamBadge {
+	width: 25.33%;
+}
+
+
+}
